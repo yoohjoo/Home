@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+반갑습니다. 본 교육 과정 시작 전 
+사전 자가 체크리스트를 확인합니다. 
+아래의 링크를 클릭하여 설문에 답해주시길 바랍니다. 
+감사합니다. 
+https://forms.gle/yJM4ymTH3bGn3xQh9
+
 <!--
 **yoohjoo/yoohjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
